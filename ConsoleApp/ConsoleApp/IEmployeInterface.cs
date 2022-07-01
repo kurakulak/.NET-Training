@@ -10,5 +10,7 @@ namespace ConsoleApp
     {
         public string EmployeeDetails();
         public string EmployeeAddress();
+        public string EmployeeCity();
+        public string EmployeeRegion();
     }
 }
